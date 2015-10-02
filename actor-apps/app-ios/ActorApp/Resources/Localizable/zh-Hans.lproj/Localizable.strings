@@ -47,30 +47,30 @@
 "SettingsChangeName" = "修改名字";
 
 
-"SettingsEditHeader" = "Your name";
+"SettingsEditHeader" = "你的名字";
 
-"SettingsEditHint" = "Please, enter your real name to help people better understand who you are.";
+"SettingsEditHint" = "请输入你的真实姓名,以帮助人们更好地了解你是谁。";
 
-"SettingsEditFieldHint" = "Enter your name";
+"SettingsEditFieldHint" = "输入你的名字";
 
 
-"SettingsAboutNotSet" = "Set about me";
+"SettingsAboutNotSet" = "关于我";
 
-"SettingsUsernameNotSet" = "Set username";
+"SettingsUsernameNotSet" = "修改名字";
 
-"SettingsUsernameTitle" = "Username";
+"SettingsUsernameTitle" = "名字";
 
-"SettingsUsernameHintField" = "Enter your Username";
+"SettingsUsernameHintField" = "输入你的名字";
 
-"SettingsUsernameHint" = "You can choose a username in Actor. If you do, other people will be able to find you by this username and contact you without sharing your phone number.\n\nYou can use a-z, 0-9 and underscores. Minumum length is 5 characters.";
+"SettingsUsernameHint" = "你可以设置一个用户名。如果你这样做了，其他用户可以通过用户名找到你，不需要你分享你的手机号码。\n\n用户名最少包含5个字符，只能使用a-z,0-9之间的字符。";
 
-"SettingsChangeAboutTitle" = "About me";
+"SettingsChangeAboutTitle" = "关于我";
 
-"SettingsChangeAboutHint" = "Tell people anything you want about yourself";
+"SettingsChangeAboutHint" = "告诉其他人你的状态";
 
 "SettingsSecurity" = "安全";
 
-"SettingsWallpapers" = "Wallpapers";
+"SettingsWallpapers" = "背景";
 
 "SettingsNotifications" = "通知和声音";
 
@@ -106,13 +106,13 @@
 
 "ProfileRenameAction" = "改名";
 
-"ProfileAbout" = "about";
+"ProfileAbout" = "关于我";
 
-"ProfilePhone" = "phone";
+"ProfilePhone" = "手机号";
 
-"ProfileUsername" = "username";
+"ProfileUsername" = "用户名";
 
-"ProfileTitle" = "Info";
+"ProfileTitle" = "信息";
 
 "CallNumber" = "拨打这个电话";
 
@@ -150,15 +150,15 @@
 
 "GroupMembers" = "{0} 个成员";
 
-"GroupMemberAdmin" = "admin";
+"GroupMemberAdmin" = "管理员";
 
 "GroupMemberInfo" = "成员信息";
 
-"GroupMemberMakeAdmin" = "Make Group admin";
+"GroupMemberMakeAdmin" = "设置群管理员";
 
-"GroupMemberMakeMessage" = "Are you sure want to make {name} admin of this group?";
+"GroupMemberMakeMessage" = "你想设置 {name} 为这个群的管理员吗?";
 
-"GroupMemberMakeAction" = "Yes";
+"GroupMemberMakeAction" = "是";
 
 "GroupMemberKick" = "移出群";
 
@@ -206,11 +206,11 @@
 
 "GroupIntegrationLinkRevokeAction" = "废除";
 
-"GroupJoinMessage" = "Are you sure want to join group?";
+"GroupJoinMessage" = "你想加入此群吗?";
 
-"GroupJoinAction" = "Join";
+"GroupJoinAction" = "加入";
 
-"GroupMembers" = "MEMBERS";
+"GroupMembers" = "成员";
 
 /*
  * Compose
@@ -224,11 +224,11 @@
 
 "CreateGroupNamePlaceholder" = "输入群名称";
 
-"CreateGroupHint" = "Please provide group subject and optional group icon";
+"CreateGroupHint" = "请提供群名称和群图标";
 
-"CreateGroupMembersTitle" = "Invite members";
+"CreateGroupMembersTitle" = "邀请成员";
 
-"CreateGroupMembersPlaceholders" = "Enter Names";
+"CreateGroupMembersPlaceholders" = "输入群名称";
 
 /*
  * Notifications
@@ -260,11 +260,11 @@
 
 "NotificationSecretMessage" = "新消息";
 
-"NotificationsGroups" = "Group Notifications";
+"NotificationsGroups" = "群通知";
 
-"NotificationsOnlyMentions" = "Only Mentions";
+"NotificationsOnlyMentions" = "只有提到我的";
 
-"NotificationsOnlyMentionsHint" = "You can enable notifications only for messages that contains your mention";
+"NotificationsOnlyMentionsHint" = "只有提到我的消息才启用通知";
 
 /*
  * Privacy
@@ -274,9 +274,9 @@
 
 "PrivacyTerminate" = "终止所有会话";
 
-"PrivacyTerminateAlert" = "Terminate all sessions";
+"PrivacyTerminateAlert" = "终止所有会话";
 
-"PrivacyTerminateAlertSingle" = "Terminate session";
+"PrivacyTerminateAlertSingle" = "中断会话";
 
 "PrivacyTerminateHint" = "退出除此设备之外的所有设备。";
 
@@ -284,9 +284,9 @@
  * Wallpapers
  */
 
-"WallpapersTitle" = "Wallpapers";
+"WallpapersTitle" = "墙纸";
 
-"WallpapersPhoto" = "Photo Library";
+"WallpapersPhoto" = "照片库";
 
 /*
  * Chat
@@ -302,13 +302,13 @@
  * Find
  */
 
-"FindTitle" = "Find People";
+"FindTitle" = "查找好友";
 
-"FindFieldHint" = "phone number, email or nickname";
+"FindFieldHint" = "手机号，电子邮件或用户名";
 
-"FindHint" = "Enter phone number, email or nickname and press search";
+"FindHint" = "输入手机号，电子邮件或用户名然后点击搜索";
 
-"FindNotFound" = "Sorry, but we are unable to find person for this search query";
+"FindNotFound" = "抱歉，我们无法找到此人";
 
 /*
  * Placeholders
@@ -360,11 +360,11 @@
 
 "AuthCodeHint" = "已经通过短信为你发送验证码，请稍侯。";
 
-"AuthCallHint" = "Actor will call you in {time}";
+"AuthCallHint" = "Actor将在{time}内拨打你的电话";
 
-"AuthCallDoneHint" = "Actor dialed your number.";
+"AuthCallDoneHint" = "Actor已拨打你的电话";
 
-"AuthNoCodeHint" = "Doesn't get the code?";
+"AuthNoCodeHint" = "无法获得验证码？";
 
 "AuthProfileTitle" = "你的信息";
 
@@ -400,13 +400,13 @@
 
 "NavigationCancel" = "取消";
 
-"NavigationBack" = "";
+"NavigationBack" = "后退";
 
 "NavigationNext" = "下一步";
 
 "NavigationSave" = "保存";
 
-"NavigationFind" = "Find";
+"NavigationFind" = "查找";
 
 "AlertCancel" = "取消";
 
@@ -414,7 +414,7 @@
 
 "AlertSave" = "保存";
 
-"AlertSet" = "Set";
+"AlertSet" = "设置";
 
 "AlertOk" = "确定";
 
@@ -422,11 +422,11 @@
 
 "AlertNo" = "否";
 
-"AlertError" = "Error";
+"AlertError" = "错误";
 
-"AlertTryAgain" = "Try Again";
+"AlertTryAgain" = "重试";
 
-"AlertInvite" = "Invite";
+"AlertInvite" = "邀请";
 
 "UnsupportedContent" = "这个版本不支持此消息。请等待应用升级，之后就可以看到消息了。";
 
@@ -446,6 +446,6 @@
 
 "ErrorCodeExpired" = "验证码过期。请重新验证一次。";
 
-"ErrorAlreadyJoined" = "You are already member of group";
+"ErrorAlreadyJoined" = "你已经是这个群的成员了。";
 
-"ErrorUnableToJoin" = "Unable to join to group";
+"ErrorUnableToJoin" = "无法加入此群";
